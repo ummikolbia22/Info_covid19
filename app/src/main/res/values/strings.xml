@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Info COVID-19</string>
+    <string name="info_covid_19">Info Covid-19</string>
+    <string name="stop_virus">STOP VIRUS</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="_9000">9000</string>
+    <string name="ayo_lawan_covid_19">Ayo Lawan COVID-19</string>
+    <string name="total_kasus">Total Kasus</string>
+    <string name="todo">TODO</string>
+</resources>
